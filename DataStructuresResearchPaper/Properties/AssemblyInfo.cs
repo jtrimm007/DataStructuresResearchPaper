@@ -1,6 +1,18 @@
-﻿using System.Reflection;
-using System.Runtime.CompilerServices;
+﻿///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+//
+//	Solution/Project:  DataStructuresResearchPaper
+//	File Name:         AssemblyInfo.cs
+//	Description:       YOUR DESCRIPTION HERE
+//	Course:            CSCI 2210 - Data Structures	
+//	Author:            DESKTOP-FOTV38D\Joshua, trimmj@etsu.edu
+//	Created:           11/4/2021
+//	Copyright:         DESKTOP-FOTV38D\Joshua, 2021
+//
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+using System.Reflection;
 using System.Runtime.InteropServices;
+
 
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information

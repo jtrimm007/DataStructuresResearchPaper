@@ -48,6 +48,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+    <None Include="DataStructuresResearchPaper.header" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\SortingAlgos\SortingAlgos.csproj">
